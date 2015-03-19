@@ -1,5 +1,5 @@
 <?php
-//teste
+//teste2
 
 // esta  sintaxe  de array  somente para  php5.4+
 $array = [
